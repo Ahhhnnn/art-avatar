@@ -54,7 +54,7 @@ function App() {
           </p>
         </div>
 
-        <div className="bg-white rounded-2xl shadow-lg p-6 mb-8">
+        <div className="bg-white rounded-2xl shadow-lg p-6 mb-5">
           {/* 添加动画控制开关 */}
           <div className="flex items-center justify-end mb-4">
             <div className="flex items-center gap-2">
